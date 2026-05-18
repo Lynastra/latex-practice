@@ -1,0 +1,8 @@
+* text=auto
+*.tex text
+*.sty text
+*.aux text
+*.log text
+*.toc text
+*.out text
+*.fls text
