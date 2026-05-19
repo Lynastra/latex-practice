@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.5.17)  18 MAY 2026 16:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.5.17)  19 MAY 2026 14:03
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1786,7 +1786,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
  [3
 
 ]
-Overfull \hbox (8.29109pt too wide) in paragraph at lines 130--131
+Overfull \hbox (8.29109pt too wide) in paragraph at lines 130--134
 []\T2A/Tempora-TLF/m/n/14.4 Ядро ин-тер-пре-та-то-ра CPython (са-мая рас-про-стра-нјн-ная ре-а-ли-за-ция Python)
  []
 
@@ -1794,69 +1794,69 @@ Overfull \hbox (8.29109pt too wide) in paragraph at lines 130--131
 
 ] [5]
 LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 207.
+(Font)              scaled to size 12.0pt on input line 212.
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--210
+Underfull \hbox (badness 10000) in paragraph at lines 215--215
 []|\T2A/Tempora-TLF/b/n/14.4 Встроенный
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 210--210
-[]|\T2A/Tempora-TLF/b/n/14.4 Встроенный
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 210--210
-[]|\T2A/Tempora-TLF/b/n/14.4 ndarray из
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 211--211
-[]|\T2A/Tempora-TLF/m/n/14.4 Однородный
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 211--211
-[]|\T2A/Tempora-TLF/m/n/14.4 Однородный
- []
-
-
-Overfull \hbox (3.88171pt too wide) in paragraph at lines 212--212
-[]|\T2A/Tempora-TLF/m/n/14.4 Фиксированный| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 212--212
-[]|\T2A/Tempora-TLF/m/n/14.4 Фиксированный
- []
-
-
-Overfull \hbox (2.1936pt too wide) in paragraph at lines 213--213
-[]|\T2A/Tempora-TLF/b/n/14.4 Производительность| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 214--214
-[]|\T2A/Tempora-TLF/m/n/14.4 Базовая (до-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 214--214
-\T2A/Tempora-TLF/m/n/14.4 бав-ле-ние,
- []
-
-
-Underfull \hbox (badness 4144) in paragraph at lines 214--214
-\T2A/Tempora-TLF/m/n/14.4 то-ри-за-ция, ли-
- []
-
-
-Underfull \hbox (badness 2556) in paragraph at lines 215--215
-[]|\T2A/Tempora-TLF/b/n/14.4 Потребление па-мя-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 215--215
+[]|\T2A/Tempora-TLF/b/n/14.4 Встроенный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--215
+[]|\T2A/Tempora-TLF/b/n/14.4 ndarray из
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+[]|\T2A/Tempora-TLF/m/n/14.4 Однородный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+[]|\T2A/Tempora-TLF/m/n/14.4 Однородный
+ []
+
+
+Overfull \hbox (3.88171pt too wide) in paragraph at lines 217--217
+[]|\T2A/Tempora-TLF/m/n/14.4 Фиксированный| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
+[]|\T2A/Tempora-TLF/m/n/14.4 Фиксированный
+ []
+
+
+Overfull \hbox (2.1936pt too wide) in paragraph at lines 218--218
+[]|\T2A/Tempora-TLF/b/n/14.4 Производительность| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--219
+[]|\T2A/Tempora-TLF/m/n/14.4 Базовая (до-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--219
+\T2A/Tempora-TLF/m/n/14.4 бав-ле-ние,
+ []
+
+
+Underfull \hbox (badness 4144) in paragraph at lines 219--219
+\T2A/Tempora-TLF/m/n/14.4 то-ри-за-ция, ли-
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 220--220
+[]|\T2A/Tempora-TLF/b/n/14.4 Потребление па-мя-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
 []|\T2A/Tempora-TLF/m/n/14.4 Маленькое
  []
 
@@ -1866,10 +1866,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 215--215
 \pydata@fh@0=\write6
 \openout6 = `_FAD58DE7366495DB4650CFEFAC2FCD61.data.minted'.
 
-runsystem(latexminted config  --timestamp 20260518163526 FAD58DE7366495DB4650CFEFAC2FCD61)...executed.
+runsystem(latexminted config  --timestamp 20260519140331 FAD58DE7366495DB4650CFEFAC2FCD61)...executed.
 
  (./_FAD58DE7366495DB4650CFEFAC2FCD61.config.minted)
-runsystem(latexminted cleanconfig  --timestamp 20260518163526 FAD58DE7366495DB4650CFEFAC2FCD61)...executed.
+runsystem(latexminted cleanconfig  --timestamp 20260519140331 FAD58DE7366495DB4650CFEFAC2FCD61)...executed.
 
  (./_minted/default.style.minted) (./_minted/8E38BCA71926386B4FB63C1FEB9D7B76.highlight.minted
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 1.
@@ -1878,29 +1878,71 @@ File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 LaTeX Font Info:    Font shape `T2A/cmtt/bx/n' in size <14.4> not available
 (Font)              Font shape `T2A/cmtt/m/n' tried instead on input line 2.
-) (./_minted/DCD77361052BA23F847035EC41842F8A.highlight.minted) [7{c:/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}] (./_minted/2440DA9E898E0A2E61FD27F78F05B32C.highlight.minted) (./_minted/8D1C0A19A4EA0DBAACAE7E2175E61D1B.highlight.minted)
+) (./_minted/DCD77361052BA23F847035EC41842F8A.highlight.minted) [7{c:/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}] (./_minted/2440DA9E898E0A2E61FD27F78F05B32C.highlight.minted) (./_minted/8D1C0A19A4EA0DBAACAE7E2175E61D1B.highlight.minted) (./_minted/AF8015D89D2B17E0F6143A7E4B0D7730.highlight.minted) [8] (./_minted/AB2EE43E3F322E7B169626434A05E958.highlight.minted [9]) (./_minted/46144DC86A976C5EFBE2CDFCF238DB2C.highlight.minted) (./_minted/F5B3ED4298205277318FE63C2C37D244.highlight.minted [10]) (./_minted/67740FBD80504283721C31D0C94066AF.highlight.minted) (./_minted/3E4CF02CFE46D357E55C77012AC9FD38.highlight.minted) (./_minted/6EF9A4CF34DDE1CAE7A9F4B41D043E45.highlight.minted) (./_minted/52F27DA73A1956C5AC4D2825CFE9DBD6.highlight.minted) (./_minted/0F978D7DDE388A539CF80AB180CCE30C.highlight.minted) (./_minted/BD89152105030A796DE7FD3D799A3C5E.highlight.minted)
+Underfull \hbox (badness 5431) in paragraph at lines 469--469
+[]|\T2A/Tempora-TLF/b/n/14.4 Тип дан-
+ []
+
+
+Overfull \hbox (8.12813pt too wide) in alignment at lines 466--470
+ [] [] 
+ []
+
+
+Underfull \hbox (badness 5431) in paragraph at lines 473--473
+[]|\T2A/Tempora-TLF/b/n/14.4 Тип дан-
+ []
+
+
+Overfull \hbox (8.12813pt too wide) in alignment at lines 470--474
+ [] [] 
+ []
+
+LaTeX Font Info:    Font shape `T2A/Tempora-TLF/m/it' will be
+(Font)              scaled to size 14.4pt on input line 476.
+
+Overfull \hbox (8.12813pt too wide) in alignment at lines 474--477
+ [] [] 
+ []
+
+
+Overfull \hbox (8.12813pt too wide) in alignment at lines 477--478
+ [] [] 
+ []
+
+
+Overfull \hbox (2.27351pt too wide) in paragraph at lines 499--499
+[]|\T2A/Tempora-TLF/m/n/14.4 complex128| 
+ []
+
+
+Overfull \hbox (8.12813pt too wide) in alignment at lines 478--500
+ [] [] 
+ []
+
+[11] [12]
 No file main.bbl.
-[8] [9] (./main.aux)
+[13] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-04-28>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D725B3E99399B2B97F8E7B6844EA9781;1252.
+(rerunfilecheck)             Checksum: E80B826ABFC82FD3A8AB71C1435B5D1A;1228.
  ) 
 Here is how much of TeX's memory you used:
- 23567 strings out of 467341
- 436502 string characters out of 5419596
- 950857 words of memory out of 5000000
- 52275 multiletter control sequences out of 15000+600000
- 642706 words of font info for 58 fonts, out of 8000000 for 9000
+ 23709 strings out of 467341
+ 441936 string characters out of 5419596
+ 957992 words of memory out of 5000000
+ 52380 multiletter control sequences out of 15000+600000
+ 645117 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 101i,10n,107p,611b,762s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2026/texmf-dist/fonts/type1/public/tempora/Tempora-Bold.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/tempora/Tempora-Regular.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb>
-Output written on main.pdf (9 pages, 111434 bytes).
+ 101i,10n,107p,611b,1284s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2026/texmf-dist/fonts/type1/public/tempora/Tempora-Bold.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/tempora/Tempora-Regular.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfit1440.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb>
+Output written on main.pdf (13 pages, 142917 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
- 91 compressed objects within 1 object stream
- 22 named destinations out of 1000 (max. 500000)
+ 135 PDF objects out of 1000 (max. 8388607)
+ 109 compressed objects within 2 object streams
+ 27 named destinations out of 1000 (max. 500000)
  57 words of extra memory for PDF output out of 10000 (max. 10000000)
 
