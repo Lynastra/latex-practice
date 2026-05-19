@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.5.17)  19 MAY 2026 14:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.5.17)  19 MAY 2026 18:22
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1866,10 +1866,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 220--220
 \pydata@fh@0=\write6
 \openout6 = `_FAD58DE7366495DB4650CFEFAC2FCD61.data.minted'.
 
-runsystem(latexminted config  --timestamp 20260519140331 FAD58DE7366495DB4650CFEFAC2FCD61)...executed.
+runsystem(latexminted config  --timestamp 20260519182237 FAD58DE7366495DB4650CFEFAC2FCD61)...executed.
 
  (./_FAD58DE7366495DB4650CFEFAC2FCD61.config.minted)
-runsystem(latexminted cleanconfig  --timestamp 20260519140331 FAD58DE7366495DB4650CFEFAC2FCD61)...executed.
+runsystem(latexminted cleanconfig  --timestamp 20260519182237 FAD58DE7366495DB4650CFEFAC2FCD61)...executed.
 
  (./_minted/default.style.minted) (./_minted/8E38BCA71926386B4FB63C1FEB9D7B76.highlight.minted
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 1.
@@ -1920,9 +1920,14 @@ Overfull \hbox (8.12813pt too wide) in alignment at lines 478--500
  [] [] 
  []
 
-[11] [12]
+[11] [12] [13]
+Overfull \hbox (1.23499pt too wide) in paragraph at lines 549--550
+[]\T2A/Tempora-TLF/m/n/14.4 Установка Pandas про-ис-хо-дит по ко-ман-де в тер-ми-на-ле (VS Code, PyCharm): 
+ []
+
+(./_minted/1707803AC9C2D81FFF4BFF242620DF0D.highlight.minted)
 No file main.bbl.
-[13] (./main.aux)
+[14] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-04-28>
@@ -1931,18 +1936,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: E80B826ABFC82FD3A8AB71C1435B5D1A;1228.
  ) 
 Here is how much of TeX's memory you used:
- 23709 strings out of 467341
- 441936 string characters out of 5419596
+ 23720 strings out of 467341
+ 442333 string characters out of 5419596
  957992 words of memory out of 5000000
- 52380 multiletter control sequences out of 15000+600000
+ 52384 multiletter control sequences out of 15000+600000
  645117 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  101i,10n,107p,611b,1284s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2026/texmf-dist/fonts/type1/public/tempora/Tempora-Bold.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/tempora/Tempora-Regular.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfit1440.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb>
-Output written on main.pdf (13 pages, 142917 bytes).
+<c:/texlive/2026/texmf-dist/fonts/type1/public/tempora/Tempora-Bold.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/tempora/Tempora-Italic.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/tempora/Tempora-Regular.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfit1440.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb>
+Output written on main.pdf (14 pages, 167465 bytes).
 PDF statistics:
- 135 PDF objects out of 1000 (max. 8388607)
- 109 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
+ 148 PDF objects out of 1000 (max. 8388607)
+ 119 compressed objects within 2 object streams
+ 31 named destinations out of 1000 (max. 500000)
  57 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,5 +1,5 @@
 # Fdb version 4
-["bibtex main"] 0 "main.aux" "main.bbl" "main" 1779188615.50094 0
+["bibtex main"] 0 "main.aux" "main.bbl" "main" 1779204160.73679 0
   "c:/texlive/2026/texmf-dist/bibtex/bst/gost/ugost2003.bst" 1778967666 62380 8e5dd6d7c254c99a638ee8a660638d75 ""
   "main.aux" 0 -1 0 "pdflatex"
   "thesis.bib" 0 -1 0 ""
@@ -7,9 +7,10 @@
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1779188611.72328 "c:/Users/Mechrevo/oznakom_practika/main.tex" "main.pdf" "main" 1779188615.50156 0
+["pdflatex"] 1779204156.86911 "c:/Users/Mechrevo/oznakom_practika/main.tex" "main.pdf" "main" 1779204160.73744 0
   "SCWorks.cls" 1740125144 37113 593d9dbb0dc2e2c65068700d13057769 ""
   "_minted/0F978D7DDE388A539CF80AB180CCE30C.highlight.minted" 1779185325 163 7c75a93b5920b1c3b13f8dc054a9e2a9 ""
+  "_minted/1707803AC9C2D81FFF4BFF242620DF0D.highlight.minted" 1779201233 163 ab97a41847b4627506eb3e4946a44669 ""
   "_minted/2440DA9E898E0A2E61FD27F78F05B32C.highlight.minted" 1779111069 765 3f9e8f2b86cd8f94b6986a9dbacaeee6 ""
   "_minted/3E4CF02CFE46D357E55C77012AC9FD38.highlight.minted" 1779185322 150 d21c740329f093ae0839fe3633ba3a8d ""
   "_minted/46144DC86A976C5EFBE2CDFCF238DB2C.highlight.minted" 1779185318 148 6cb8f51548bc36ad8ed130c1394c87d2 ""
@@ -23,12 +24,12 @@
   "_minted/BD89152105030A796DE7FD3D799A3C5E.highlight.minted" 1779185326 149 f16c89108020212498ad3a3e9a6174bb ""
   "_minted/DCD77361052BA23F847035EC41842F8A.highlight.minted" 1779111067 284 641dc18208d72ecdefc1c4275e9cf977 ""
   "_minted/F5B3ED4298205277318FE63C2C37D244.highlight.minted" 1779185319 150 c47dc26f379697b127ed2571440c12c9 ""
-  "_minted/_FAD58DE7366495DB4650CFEFAC2FCD61.index.minted" 1779185327 1025 ba37df05fd184e3ff5c0b8a9e401d491 ""
+  "_minted/_FAD58DE7366495DB4650CFEFAC2FCD61.index.minted" 1779201234 1083 f4b242fa4885810b7cfa204981b5be95 ""
   "_minted/default.style.minted" 1779107165 6526 e1fb43a91491f41b33310478eee48cdb ""
   "c:/Users/Mechrevo/.texlive2026/texmf-var/fonts/tfm/lh/lh-t2a/lait1440.tfm" 1779184917 1272 712d5b7a8a39f8aec19fa7f7b02d1aec ""
   "c:/Users/Mechrevo/.texlive2026/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm" 1779004016 3256 3daaa33cf35cf3f354983aa3214ecd7f ""
   "c:/Users/Mechrevo/.texlive2026/texmf-var/fonts/tfm/lh/lh-t2a/latt1440.tfm" 1779107159 1272 e3abe42d6bdbd8626fffa22fcb43f669 ""
-  "c:/Users/Mechrevo/oznakom_practika/main.tex" 1779188607 30102 53955d1de79a3b645523d719d062e8ef ""
+  "c:/Users/Mechrevo/oznakom_practika/main.tex" 1779204156 34627 9fc08c8acbf7aef90418805180b7dc53 ""
   "c:/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc" 1778966281 3141 82d5616418ed8d5de703b3951bedecb4 ""
   "c:/texlive/2026/texmf-dist/fonts/enc/dvips/tempora/t2a-tempora.enc" 1778971049 3023 c4581b906237349b927d8aa9ff8a2b60 ""
   "c:/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1778967414 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -49,6 +50,7 @@
   "c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfit1440.pfb" 1778966281 160769 998042dac3d7fc6e273034f638add58c ""
   "c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb" 1778966281 166192 290b50dea19fd521ea13222a29b30d7c ""
   "c:/texlive/2026/texmf-dist/fonts/type1/public/tempora/Tempora-Bold.pfb" 1778971049 181681 afdfb6d755a50146ad5e9b8a84e6d0d4 ""
+  "c:/texlive/2026/texmf-dist/fonts/type1/public/tempora/Tempora-Italic.pfb" 1778971049 187788 9f948fe5b3e43e9add28936c3f5b0926 ""
   "c:/texlive/2026/texmf-dist/fonts/type1/public/tempora/Tempora-Regular.pfb" 1778971049 184118 66b4168524808c026ab77d60a50b7f45 ""
   "c:/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1778969213 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "c:/texlive/2026/texmf-dist/tex/generic/babel-english/english.ldf" 1778965501 7008 9ff5fdcc865b01beca2b0fe4a46231d4 ""
@@ -169,11 +171,11 @@
   "c:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1778972302 5619402 ad1310ccf7f36101ef3e8f014a173c46 ""
   "c:/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1778972462 3651065 ae776409282683942347ceb3ea9a5579 ""
   "c:/texlive/2026/texmf.cnf" 1778972287 713 e69b156964470283e0530f5060668171 ""
-  "main.aux" 1779188614 2761 41c635d00d790e7ae187f43082836ce0 "pdflatex"
+  "main.aux" 1779204159 2780 b5bfb44d3cc05974249d676fc6ea3a2a "pdflatex"
   "main.bbl" 0 -1 0 "bibtex main"
-  "main.out" 1779188614 1228 e80b826abfc82fd3a8ab71c1435b5d1a "pdflatex"
-  "main.tex" 1779188607 30102 53955d1de79a3b645523d719d062e8ef ""
-  "main.toc" 1779188614 973 15c5c362700b9b80c78f6dcdb967b65f "pdflatex"
+  "main.out" 1779204159 1228 e80b826abfc82fd3a8ab71c1435b5d1a "pdflatex"
+  "main.tex" 1779204156 34627 9fc08c8acbf7aef90418805180b7dc53 ""
+  "main.toc" 1779204159 973 6311d738cba865ae84900fa8b9dcefde "pdflatex"
   "preamble.sty" 1740125156 345 17930e00f1d8855382e632d3c23a51a6 ""
   (generated)
   "main.aux"
