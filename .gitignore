@@ -1,0 +1,18 @@
+# Латеховский мусор
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.pdf
+*.synctex.gz
+
+# Папка с подсветкой кода от minted
+_minted/
+*.highlight.minted
+*.index.minted
+
+# Временные файлы
+*.bak
+*.tmp
