@@ -1,6 +1,0 @@
-\begin{MintedVerbatim}[commandchars=\\\{\}]
-\PYG{n}{data\PYGZus{}list} \PYG{o}{=} \PYG{p}{[}\PYG{l+m+mi}{10}\PYG{p}{,} \PYG{l+m+mi}{20}\PYG{p}{,} \PYG{l+m+mi}{30}\PYG{p}{,} \PYG{l+m+mi}{40}\PYG{p}{]}
-\PYG{c+c1}{\PYGZsh{} Превращаем в Series}
-\PYG{n}{series\PYGZus{}from\PYGZus{}list} \PYG{o}{=} \PYG{n}{pd}\PYG{o}{.}\PYG{n}{Series}\PYG{p}{(}\PYG{n}{data\PYGZus{}list}\PYG{p}{)}
-\PYG{n+nb}{print}\PYG{p}{(}\PYG{n}{series\PYGZus{}from\PYGZus{}list}\PYG{p}{)}
-\end{MintedVerbatim}

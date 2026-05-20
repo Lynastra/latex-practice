@@ -744,7 +744,6 @@ print(df)
 1 & Bob    & 30 & London  \\ \hline
 2 & Charlie & 35 & Paris   \\ \hline
 \end{tabular}
-\label{tab:example}
 \end{table}
 
 Пример создания DataFrame из списка словарей:
@@ -771,8 +770,38 @@ print(df)
 1 & Bob    & 30 & London  \\ \hline
 2 & Charlie & 35 & NaN   \\ \hline
 \end{tabular}
-\label{tab:example}
 \end{table}
+
+Пример создания DataFrame из массива NumPy:
+
+\begin{minted}{python}
+# Создаем матрицу 3x2 (3 строки, 2 столбца)
+arr = np.array([
+    [10, 20],
+    [30, 40],
+    [50, 60]
+])
+df = pd.DataFrame(arr, columns=['Feature_1', 'Feature_2'])
+print(df)
+\end{minted}
+Увидим в консоли:
+
+\begin{table}[H]
+\centering
+\caption{Пример данных}
+\begin{tabular}{c c c}
+\hline
+& \textbf{Feature\_1} & \textbf{Feature\_2} \\ \hline
+0 & 10 & 20 \\ \hline
+1 & 30 & 40 \\ \hline
+2 & 50 & 60 \\ \hline
+\end{tabular}
+\end{table}
+
+
+
+Это стандарт для Machine Learning. Если у вас есть матрица чисел (например, картинка или 
+признаки для нейросети), её легко превратить в DataFrame.
 
 Основные атрибуты DataFrame:
 
